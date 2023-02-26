@@ -1,0 +1,42 @@
+{
+    "Robert Downey Jr": {
+        "group":"left-img-style",
+        "description": "<a href='https://en.wikipedia.org/wiki/Robert_Downey_Jr.' target='_blank'>Robert John Downey Jr.</a> is an American actor and producer. His career has been characterized by critical and popular success in his youth, followed by a period of substance abuse and legal troubles, before a resurgence of commercial success later in his career.",
+        "image": "rdj.jpg"
+    },
+    "substance abuse":{
+        "group":"top-img-style",
+        "description": "<b>Substance abuse</b>, also known as <b>drug abuse</b>, is the use of a drug in amounts or by methods that are harmful to the individual or others. It is a form of substance-related disorder. Differing definitions of drug abuse are used in public health, medical, and criminal justice contexts. In some cases, criminal or anti-social behavior occurs when the person is under the influence of a drug, and long-term personality changes in individuals may also occur. In addition to possible physical, social, and psychological harm, the use of some drugs may also lead to criminal penalties, although these vary widely depending on the local jurisdiction.",
+        "image": "Heroin_paraphernalia.jpg"
+    },
+    "100 most influential people in the world": {
+        "group":"no-img-style",
+        "description": "Time 100 (often stylized as TIME 100) is an annual listicle of the 100 most influential people in the world, assembled by the American news magazine Time. First published in 1999 as the result of a debate among American academics, politicians, and journalists, the list is now a highly publicized annual event.",
+        "image": ""    
+    },
+    "Robert Downey Sr": {
+        "group":"left-img-style",
+        "description": "Robert John Downey was an American filmmaker and actor. He was known for writing and directing his underground film Putney Swope, a satire on the New York Madison Avenue advertising world.",
+        "image": "Robert_Downey_Sr.jpg"
+    },
+    "Academy Award for Best Supporting Actor": {
+        "group":"right-img-style",
+        "description": "The Academy Award for Best Supporting Actor is an award presented annually by the Academy of Motion Picture Arts and Sciences (AMPAS). It is given in honor of an actor who has delivered an outstanding performance in a supporting role while working within the film industry. The award is traditionally presented by the previous year's Best Supporting Actress winner.",
+        "image": "Troy_kotsur_2022_1.jpg"
+    },
+    "Iron Man (2008)": {
+        "group":"right-img-style",
+        "description": "Iron Man is a 2008 American superhero film based on the Marvel Comics character of the same name. Produced by Marvel Studios and distributed by Paramount Pictures, it is the first film in the Marvel Cinematic Universe (MCU).",
+        "image": "Iron_Man_(2008_film)_poster.jpg"
+    },
+    "Sherlock Holmes": {
+        "group":"right-img-style",
+        "description": "Sherlock Holmes is a 2009 period mystery action film starring Robert Downey Jr. as the character of the same name created by Sir Arthur Conan Doyle. The film was directed by Guy Ritchie and produced by Joel Silver, Lionel Wigram, Susan Downey, and Dan Lin.",
+        "image": "Sherlock_holmes_ver5.jpg"
+    },
+    "Sherlock Holmes: A Game of Shadows (2011)": {
+        "group":"right-img-style",
+        "description": "Sherlock Holmes: A Game of Shadows is a 2011 period mystery action film and the sequel to the 2009 film Sherlock Holmes, both which star Robert Downey Jr. as the titular character. The film is directed by Guy Ritchie and produced by Joel Silver, Lionel Wigram, Susan Downey and Dan Lin.",
+        "image": "Sherlock_Holmes2Poster.jpg"
+    }
+}

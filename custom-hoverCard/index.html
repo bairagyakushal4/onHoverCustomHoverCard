@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Custom Hover Card</title>
+    <link rel="stylesheet" href="assets/hover-style.css" />
+
+    <style>
+      @font-face {
+        font-family: "Poppins";
+        src: url(assets/font/Poppins-Light.ttf);
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Poppins", sans-serif;
+      }
+
+      body {
+        min-height: 110vh;
+      }
+
+      hr {
+        margin: 2px 0 10px 0;
+        border: 1px solid gray;
+        border-top: none;
+      }
+
+      .center-align {
+        width: 50%;
+        max-width: 1200px;
+        margin: 50vh auto 50vh auto;
+      }
+      .hover__target {
+        color: hotpink;
+        font-weight: 600;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="center-align">
+      <h1>
+        <span data-hover-id="Robert Downey Jr" data-hover-group="left-img-style" class="hover__target">Robert Downey Jr.</span>
+      </h1>
+      <hr />
+      <p>
+        <span data-hover-id="Robert Downey Jr" data-hover-group="left-img-style" class="hover__target">Robert Downey Jr.</span> (born April 4, 1965)
+        is an American actor and producer. His career has been characterized by critical and popular success in his youth, followed by a period of
+        <span data-hover-id="substance abuse" data-hover-group="top-img-style" class="hover__target">substance abuse</span> and legal troubles, before
+        a resurgence of commercial success later in his career. In 2008, Downey was named by Time magazine among the
+        <span data-hover-id="100 most influential people in the world" data-hover-group="no-img-style" class="hover__target">
+          100 most influential people in the world,
+        </span>
+        and from 2013 to 2015, he was listed by Forbes as Hollywood's highest-paid actor.
+      </p>
+      <br />
+      <p>
+        At the age of five, he made his acting debut in his father
+        <span data-hover-id="Robert Downey Sr" data-hover-group="right-img-style" class="hover__target">Robert Downey Sr.'s</span> film Pound in 1970.
+        He subsequently worked with the Brat Pack in the teen films Weird Science (1985) and Less than Zero (1987). In 1992, Downey portrayed the
+        title character in the biopic Chaplin, for which he was nominated for the Academy Award for Best Actor and won a BAFTA Award. Following a
+        stint at the Corcoran Substance Abuse Treatment Facility on drug charges, he joined the TV series Ally McBeal, for which he won a Golden Globe
+        Award. He was fired from the show in the wake of drug charges in 2000 and 2001. He stayed in a court-ordered drug treatment program and has
+        maintained his sobriety since 2003.
+      </p>
+      <br />
+      <p>
+        Initially, completion bond companies would not insure Downey, until Mel Gibson paid the insurance bond for the 2003 film The Singing
+        Detective. He went on to star in the black comedy Kiss Kiss Bang Bang (2005), the thriller Zodiac (2007), and the action comedy Tropic Thunder
+        (2008); for the latter, he was nominated for an
+        <span data-hover-id="Academy Award for Best Supporting Actor" data-hover-group="left-img-style" class="hover__target"
+          >Academy Award for Best Supporting Actor.</span
+        >
+      </p>
+      <br />
+      <p>
+        Downey gained global recognition for starring as Tony Stark/Iron Man in ten films within the Marvel Cinematic Universe, beginning with
+        <span data-hover-id="Iron Man (2008)" data-hover-group="left-img-style" class="hover__target">Iron Man (2008),</span>
+        and leading up to Avengers: Endgame (2019). He has also played the title character in Guy Ritchie's
+        <span data-hover-id="Sherlock Holmes" data-hover-group="right-img-style" class="hover__target">Sherlock Holmes (2009)</span>, which earned him
+        his second Golden Globe, and its sequel,
+        <span data-hover-id="Sherlock Holmes: A Game of Shadows (2011)" data-hover-group="right-img-style" class="hover__target"
+          >Sherlock Holmes: A Game of Shadows (2011).</span
+        >
+      </p>
+    </div>
+
+    <script src="assets/hover-script.js"></script>
+  </body>
+</html>
